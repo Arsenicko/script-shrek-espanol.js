@@ -2,7 +2,7 @@
 Guion completo de Shrek para enviar via whatsapp
 
 MODO DE USO:
->Abrir script-shrek-espanol.js y copiar todo (ctrl+a -> ctrl+c)
+>Abrir [script-shrek-espanol.js](https://github.com/Arsenicko/script-shrek-espanol.js/blob/main/shrek.js) y copiar todo (ctrl+a -> ctrl+c)
 
 >Abrimos Whatsapp WEB y damos click derecho en alguna parte de la pantalla pero de preferencia es mejor
 ingresar con la tecla "F12"
