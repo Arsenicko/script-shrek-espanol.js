@@ -1,4 +1,4 @@
-# script-shrek-espanol.js
+# script-shrek-español
 Guion completo de Shrek para enviar via whatsapp
 
 MODO DE USO:
