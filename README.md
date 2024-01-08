@@ -15,6 +15,6 @@ IMPORTANTE: en whatsapp web estar en el chat a quien enviaremos el script, de lo
 Si realizamos bien los pasos veremos como se carga cada mensaje, lo ideal es dejar corriendo el script y no cambiar
 de chat para no interrumpir y evitar un problema
 
-
+Agradecimeintos a https://github.com/Matt-Fontes por el script, yo solo hice la traduccion asi que robe la mayor parte
 
 
